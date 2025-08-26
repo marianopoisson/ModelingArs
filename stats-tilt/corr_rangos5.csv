@@ -1,0 +1,13 @@
+,a,AR,axf,alpha,R
+bottom,True,8722,False,False,False
+top,False,8795,True,False,False
+bottom,True,8795,False,False,False
+bottom,True,8839,False,False,False
+top,False,8839,False,True,False
+top,False,8913,False,False,True
+top,False,8924,False,False,True
+bottom,False,8924,True,False,False
+top,False,9088,False,False,True
+top,False,9161,True,False,True
+bottom,False,9311,True,False,False
+bottom,False,9353,True,False,False
